@@ -25,7 +25,7 @@
   --brote-white-rgb: 255, 255, 255;
   --brote-base: #1239ac;
   --brote-base-rgb: 18, 57, 172;
-  --brote-primary: #ffb400;
+  --brote-primary: #9fd043;
   --brote-primary-rgb: 255, 180, 0;
 }
 
@@ -4159,13 +4159,13 @@ ul {
 .brand-one__main-content .swiper-slide img {
   -webkit-transition: 500ms;
   transition: 500ms;
-  -webkit-filter: grayscale(100%);
-  filter: grayscale(100%);
+  /* -webkit-filter: grayscale(100%); */
+  /* filter: grayscale(100%); */
 }
 
 .brand-one__main-content .swiper-slide img:hover {
-  -webkit-filter: grayscale(0);
-  filter: grayscale(0);
+  /* -webkit-filter: grayscale(0); */
+  /* filter: grayscale(0); */
 }
 
 /*--------------------------------------------------------------
